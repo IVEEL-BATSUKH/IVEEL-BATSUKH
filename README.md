@@ -1,6 +1,6 @@
 - 👋 Hi, Сайн байна уу? 
 -  I’m IVEEL-BATSUKH 
--  Welcome to my website. I will share my opinion on contemporary literatures, classic books and write some quotes and essay.
+-  Welcome to my website. I will share my opinion and mini researches  on contemporary literatures, classik books.
 - About me
 -  Translator and reader at Monsudar publishing house 
 -  Graduated National University of Mongolia majored at Japanese studies 
@@ -13,7 +13,4 @@
 
 
 Өөрөөсөө өөрийгөө асуусан тэр өдрөөс амьдарч эхэлсэн
-Fate.
-A word meaning destiny 
-Fate.
-A word meaning doom.         
+       
